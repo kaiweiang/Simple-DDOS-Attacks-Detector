@@ -16,7 +16,8 @@ The program is able to identify potential DDOS attack on the fly from a given ap
 For more information, please read the [apache log format](https://httpd.apache.org/docs/2.2/logs.html).
 
 ### Note
-The program is not run at scale. It is done with a single node pseudo cluster. It is run in local host. 
+The program is not run at scale. It is done with a single node pseudo cluster.  
+It is also run in local host. 
 
 ### Future step
 Make the program scalable.  
