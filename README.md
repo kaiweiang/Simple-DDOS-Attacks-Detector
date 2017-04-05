@@ -22,6 +22,6 @@ For more information, please read the [apache log format](https://httpd.apache.o
 The program is not run at scale. It is done with a single node pseudo cluster.  
 It is also run in local host. 
 
-### Future step
+### Future steps
 Make the program scalable.  
 Implement more sophisticated algorithm to detect DDOS attackers. 
