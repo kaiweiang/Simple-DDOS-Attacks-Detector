@@ -6,7 +6,7 @@
 ```Python 2.7 or above``` 
 
 ### Purpose
-This project is educational purpose. The goal is to lean some basic concepts and to get some hands-on experience on Apache Spark and Kafka. 
+This project is educational purpose. The goal is to learn some basic concepts and to get some hands-on experience on Apache Spark and Kafka. 
 
 ### Description
 The program is able to identify potential DDOS attack on the fly from a given apache log file input.  
